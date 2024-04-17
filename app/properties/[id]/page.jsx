@@ -3,9 +3,10 @@
 
 const PropertiesPage = () => {
 
+
   return (
     <div>
-     Property Home page
+    This is from properties id page
     </div>
   )
 }
